@@ -17,6 +17,7 @@ By using good design choices, it is intended the application not only reaches th
 opportunity to be scaled further.
 
 MVC Model:
+
 ![MVC](https://user-images.githubusercontent.com/47308670/109794419-c23b0900-7c0d-11eb-960f-1b83cff0e090.png)
 
 Factory pattern class diagram:
