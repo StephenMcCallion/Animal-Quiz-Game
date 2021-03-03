@@ -16,4 +16,7 @@ The design patterns used in this application are MVC (Model, View Controller) an
 By using good design choices, it is intended the application not only reaches the goal but also has the
 opportunity to be scaled further.
 
+![FactoryPattern](https://user-images.githubusercontent.com/47308670/109794186-830cb800-7c0d-11eb-9d6b-4fe3ce92910b.png)
+
+
 https://user-images.githubusercontent.com/47308670/109793519-a5ea9c80-7c0c-11eb-9e93-49130e9ef236.mov
