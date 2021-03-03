@@ -21,6 +21,7 @@ MVC Model:
 ![MVC](https://user-images.githubusercontent.com/47308670/109794419-c23b0900-7c0d-11eb-960f-1b83cff0e090.png)
 
 Factory pattern class diagram:
+
 ![FactoryPattern](https://user-images.githubusercontent.com/47308670/109794186-830cb800-7c0d-11eb-9d6b-4fe3ce92910b.png)
 
 Showcase video:
